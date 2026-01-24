@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sakshyam Poudel</h1>
-<h3 align="center">A passionate frontend developer from Nepal</h3>
+<h3 align="center">A passionate website developer(learner) from Nepal</h3>
 
 - 🔭 I’m currently working on [Shady Moto Website](https://sakshyam18.github.io/shadymoto/)
 
