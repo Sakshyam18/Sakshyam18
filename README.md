@@ -4,6 +4,7 @@
 - 🔭 I’m currently working on [Shady Moto Website](https://sakshyam18.github.io/shadymoto/)
 
 <h3 align="left">Connect with me:</h3>
+https://www.linkedin.com/in/sakshyam-poudel-2005d18/
 <p align="left">
 </p>
 
