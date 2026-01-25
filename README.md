@@ -1,12 +1,63 @@
-<h1 align="center">Hi 👋, I'm Sakshyam Poudel</h1>
-<h3 align="center">A passionate website developer(learner) from Nepal</h3>
+# 👋 Hi, I'm Sakshyam
 
-- 🔭 I’m currently working on [Shady Moto Website](https://sakshyam18.github.io/shadymoto/)
+### Frontend Web Developer | HTML • CSS • JavaScript
 
-<h3 align="left">Connect with me:</h3>
-https://www.linkedin.com/in/sakshyam-poudel-2005d18/
-<p align="left">
-</p>
+I’m a passionate **frontend web developer** focused on building clean, responsive, and user‑friendly websites. I enjoy turning ideas into real, usable web experiences and continuously improving my skills through hands‑on projects.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+---
+
+## 🧑‍💻 About Me
+
+* 🌱 Currently learning modern **JavaScript & responsive web design**
+* 🛠️ Interested in building real‑world websites and web apps
+* 💼 Open to **internships, freelance work, and junior frontend roles**
+* 🎯 Goal: Become a professional full‑stack developer
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages & Markup**
+
+* HTML5
+* CSS3
+* JavaScript (ES6)
+
+**Tools & Platforms**
+
+* Git & GitHub
+* GitHub Pages
+* VS Code
+* Browser DevTools
+
+---
+
+## 🚀 Featured Projects
+
+### 🏍️ ShadyMoto – Bike Accessories Website
+
+A responsive e‑commerce style website for bike accessories with cart functionality.
+
+* **Tech:** HTML, CSS, JavaScript
+* **Features:** Product listing, add‑to‑cart, localStorage
+* 🌐 Live Demo: [https://sakshyam18.github.io/shadymoto](https://sakshyam18.github.io/shadymoto)
+
+---
+
+## 📈 What I'm Working On
+
+* Improving JavaScript logic & DOM manipulation
+* Building responsive layouts (mobile‑first)
+* Adding better UI/UX to existing projects
+
+---
+
+## 📫 Connect With Me
+
+* 🌐 Portfolio: *(Coming soon)*
+* 💻 GitHub: [https://github.com/Sakshyam18](https://github.com/Sakshyam18)
+* 📧 Email: *(add your professional email here)*
+
+---
+
+⭐ If you like my work, consider starring my repositories!
