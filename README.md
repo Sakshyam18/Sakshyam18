@@ -54,7 +54,7 @@ A responsive e‑commerce style website for bike accessories with cart functiona
 
 ## 📫 Connect With Me
 
-* 🌐 Portfolio: *(Coming soon)*
+* 🌐 Portfolio: https://github.com/Sakshyam18/portfolio.git
 * 💻 Linkedin: https://www.linkedin.com/in/sakshyam-poudel-2005d18/
 * 📧 Email: sakshyam.poudel@gmail.com
 
